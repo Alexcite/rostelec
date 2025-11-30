@@ -1,5 +1,5 @@
 # Decentralized Voting System
-
+https://disk.yandex.ru/d/53UZs4SrV4PUGQ - full project
 This project is a minimal decentralized voting application built on top of **Scaffold-ETH 2**.  
 It demonstrates how to build, deploy and interact with a smart contract that allows users to create proposals, vote on them, and track results on-chain.
 
